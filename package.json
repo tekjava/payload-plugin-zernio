@@ -3,8 +3,10 @@
   "version": "0.1.0",
   "description": "Payload CMS plugin for Zernio social media scheduling",
   "type": "module",
-  "main": "src/index.ts",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "files": [
+    "dist",
     "src"
   ],
   "scripts": {
